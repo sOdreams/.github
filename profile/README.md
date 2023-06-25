@@ -20,10 +20,7 @@ Are you passionate about technology and eager to collaborate with like-minded in
 
 ## Connect with Us
 
-- Website: [www.tddprojects.com](http://www.tddprojects.com)
-- Twitter: [@tddprojects](https://twitter.com/tddprojects)
-- Instagram: [@tddprojects](https://www.instagram.com/tddprojects)
-- LinkedIn: [TdD Projects](https://www.linkedin.com/company/tdd-projects)
+- LinkedIn: [TdD Projects](https://www.linkedin.com/company/tdd-inc/)
 
 We look forward to embarking on this exciting journey with you as we shape the future through technology.
 
